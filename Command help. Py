@@ -1,0 +1,6 @@
+#How to create a command
+#bot.command(pass_context=True) 
+async def Command name(ctx):
+    await bot.say("What you want to say) 
+
+
